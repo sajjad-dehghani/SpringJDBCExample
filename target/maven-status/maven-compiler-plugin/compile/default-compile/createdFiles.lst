@@ -1,0 +1,4 @@
+com\mkyong\customer\dao\CustomerDAO.class
+com\mkyong\common\App.class
+com\mkyong\customer\dao\impl\JdbcCustomerDAO.class
+com\mkyong\customer\model\Customer.class
